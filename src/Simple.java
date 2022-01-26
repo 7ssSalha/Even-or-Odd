@@ -4,7 +4,6 @@ public class Simple {
     public static void main(String[] args){
 
         int num;
-        int x;
         int y;
         System.out.println("Enter an Integer number:");
 
