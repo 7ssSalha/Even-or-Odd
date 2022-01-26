@@ -18,5 +18,6 @@ public class Simple {
         }
         System.out.println("this is the end");
         System.out.println("END GAME");
+        System.out.println("End of program is here");
     }
 }
