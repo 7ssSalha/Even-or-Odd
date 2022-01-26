@@ -5,6 +5,7 @@ public class Simple {
 
         int num;
         int x;
+        int y;
         System.out.println("Enter an Integer number:");
 
         Scanner input = new Scanner(System.in);
