@@ -15,5 +15,6 @@ public class Simple {
         else {
             System.out.println("Entered number is odd");
         }
+        System.out.println("program end");
     }
 }
