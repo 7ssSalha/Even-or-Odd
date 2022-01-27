@@ -8,6 +8,7 @@ public class Simple {
         System.out.println("Enter an Integer number:");
 
         System.out.println("z1");
+        System.out.println("z2");
 
         Scanner input = new Scanner(System.in);
         num = input.nextInt();
