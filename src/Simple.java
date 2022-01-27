@@ -20,7 +20,7 @@ public class Simple {
         System.out.println("END GAME");
         System.out.println("End of program is here");
         System.out.println("new y1");
-        System.out.println("new commit with y2");
+        System.out.println("new y2");
         System.out.println("new commit with y3");
     }
 }
