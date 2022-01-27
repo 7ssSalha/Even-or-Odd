@@ -9,6 +9,7 @@ public class Simple {
 
         System.out.println("z1");
         System.out.println("z2");
+        System.out.println("z2");
 
         Scanner input = new Scanner(System.in);
         num = input.nextInt();
