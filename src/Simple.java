@@ -17,5 +17,6 @@ public class Simple {
             System.out.println("Entered number is odd");
         }
         System.out.println("program end");
+        System.out.println("x1");
     }
 }
