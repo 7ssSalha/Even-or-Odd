@@ -4,7 +4,7 @@ public class Simple {
     public static void main(String[] args){
 
         int num;
-        int x;
+        int y;
         System.out.println("Enter an Integer number:");
 
         Scanner input = new Scanner(System.in);
@@ -20,5 +20,10 @@ public class Simple {
         System.out.println("x1");
         System.out.println("x2");
         System.out.println("x3");
+
+        System.out.println("this is the end");
+        System.out.println("END GAME");
+        System.out.println("End of program is here");
+        System.out.println("new commit with y3");
     }
 }
