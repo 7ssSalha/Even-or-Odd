@@ -18,5 +18,6 @@ public class Simple {
         }
         System.out.println("program end");
         System.out.println("x1");
+        System.out.println("x2");
     }
 }
